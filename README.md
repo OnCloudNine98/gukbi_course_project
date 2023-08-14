@@ -1,4 +1,4 @@
-# gukbi_course_project
+# 국비과정 프로젝트
 
 AlgodaProject/WebContent/list
 <br>
