@@ -35,7 +35,7 @@ Spring Framework 의 형식을 좀 더 이해하기 위해 MVC 모델 구조로 
 
 ## DB 설계
 
-![Untitled](readme-img/data.png)
+![Untitled](readme-img/Data.png)
 
 ---
 
