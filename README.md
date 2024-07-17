@@ -1,6 +1,6 @@
 # 나만의 단어장 사이트
 
-![Untitled](readme-img/main.png)
+![Untitled](readme-img/Main.png)
 
 ## 프로젝트 간단 소개
 
